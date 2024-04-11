@@ -33,3 +33,6 @@ como descrito abaixo:
 - LED vermelho
 - 3 resistores de 220 Ω
 - Piezo
+
+### Link do Circuito
+- https://www.tinkercad.com/things/6ozEGRRNSRv-edge-computing-cp1
